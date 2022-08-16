@@ -1,7 +1,7 @@
 ### Hi there 👋
 #### My name is Enzo and I am a Jr. Developer at the moment. I love front-end and I am always trying to do the best I can in everything
 
-![Snake animation](https://github.com/enzikavirus/enzikavirus/blob/output/github-contribution-grid-snake.svg)
+
 
 #### Skills:
 
