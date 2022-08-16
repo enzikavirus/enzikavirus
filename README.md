@@ -13,10 +13,10 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="25" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS" height="25" />
 
+<br>
 
-          
-          
-          
-          
-          
-          
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzikavirus&layout=compact&langs_count=7&theme=dracula"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=enzikavirus&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
