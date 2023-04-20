@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### My name is Enzo and I am a Jr. Developer at the moment. I love front-end and I am always trying to do the best I can in everything
+#### My name is Enzo and I am a Jr. Developer at the moment. I love back-end and I am always trying to do the best I can in everything
 
 
 #### Skills:
